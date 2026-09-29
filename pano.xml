@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" apprev="17873" appversion="6.1.2">
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2412" levelingpitch="0" height="2412" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2412" preload="0" height="2412" predecode="0"/>
+      <level width="1206" preload="0" height="1206" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="119.093" tilt="-11.2968" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:36" info="" tags="Готово" source="" nodeid="node2" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-144.21" id="Point01" tilt="-18.29" target="-120.9/-37.5/70.2" description="" title="" skinid="ht_node" url="{node1}"/>
+      <hotspot pan="-319.31" id="Point02" tilt="-7.07" target="55.1/-14.6/83.7" description="" title="" skinid="ht_node" url="{node3}"/>
+      <hotspot pan="-56.03" id="Point03" tilt="-14.34" target="-43.4/-24.8/76.9" description="" title="" skinid="ht_node" url="{node5}"/>
+      <hotspot pan="-114.89" id="Point04" tilt="-26.68" target="" description="Стол «Квадро» 1200х800х1700 мм.&#xa;Материалы: массив дерева. &#xa;Стул «Лайт» с жёстким сиденьем.&#xa;Материалы: массив дерева.&#xa;Табурет «Классика» с жёстким сиденьем.&#xa;Материалы: массив дерева." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-328.75" id="Point05" tilt="-34.84" target="" description="Стол «Бостон» 1500х900х2000 мм.&#xa;Материалы: массив дерева. &#xa;Стул «Лоран» с жёстким сиденьем.&#xa;Материалы: массив дерева." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-257.55" id="Point06" tilt="-14.63" target="" description="Стол «Фламинго-3» 2500х1000х3000х3500 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ, патина серебро.&#xa;Стул «Кардинал-2»&#xa;Материалы: массив бука, патина серебро, ткань велюр." title="03" skinid="ht_info" url=""/>
+      <hotspot pan="-212.11" id="Point07" tilt="-15.82" target="" description="Стол «Фламинго-2» 2500х1000х3000х3500 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + шпон, патина чёрная.&#xa;Стул «Лира» узор.&#xa;Материалы: массив бука, патина чёрная, ткань велюр." title="04" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-197.720" rotx="4.000" id="Element01" tilt="4.470" stretch="1.000" width="100" handcursor="1" fov="25.370" height="71" clickmode="1" roty="38.000" rotz="-3.000">
+        <source url="media/3.jpg"/>
+      </image>
+      <image pan="-272.680" rotx="8.000" id="Element02" tilt="3.930" stretch="1.000" width="100" handcursor="1" fov="25.550" height="71" clickmode="1" roty="-36.000" rotz="5.000">
+        <source url="media/4.jpg"/>
+      </image>
+      <image pan="-234.240" rotx="0.000" id="Element03" tilt="3.820" stretch="1.000" width="478" handcursor="0" fov="21.810" height="477" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Баннер.jpg"/>
+      </image>
+      <image pan="-340.460" rotx="0.000" id="Element04" tilt="0.790" stretch="1.000" width="1772" handcursor="0" fov="22.344" height="320" clickmode="0" roty="-9.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-133.010" rotx="0.000" id="Element05" tilt="0.870" stretch="1.000" width="1772" handcursor="0" fov="19.852" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2413" levelingpitch="0" height="2413" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2413" preload="0" height="2413" predecode="0"/>
+      <level width="1206" preload="0" height="1206" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:35" info="" tags="Готово" source="" nodeid="node1" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-327.7" id="Point01" tilt="-14.12" target="26.6/-26.6/70.0" description="" title="" skinid="ht_node" url="{node2}"/>
+      <hotspot pan="-45.09" id="Point02" tilt="-12.56" target="-57.2/-27.3/77.0" description="" title="04" skinid="ht_node" url="{node4}"/>
+      <hotspot pan="-108.39" id="Point03" tilt="-43.6" target="" description="Стол «Фламинго-2» 1700х1000х2400 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + тиснение, патина серебро. &#xa;Стул «Медальон»&#xa;Материалы: массив бука, патина серебро." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-16.93" id="Point04" tilt="-24.22" target="" description="Стол «Аида-2» пулька 1000х1000х1400 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ, патина серебро. &#xa;Стул «Лира-2» &#xa;Материалы: массив бука, ткань велюр." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-327.69" id="Point05" tilt="-41.99" target="" description="Стол «Аида» Версачи 1000х1000х1400 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ.&#xa;Стул «Каспий»&#xa;Материалы: массив бука, ткань велюр." title="03" skinid="ht_info" url=""/>
+      <hotspot pan="-255.74" id="Point06" tilt="-23.62" target="" description="Стол «Венеция» 1000х1000х1400 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + тиснение.&#xa;Стул «Кардинал» с жёстким сиденьем.&#xa;Материалы: массив бука, МДФ." title="04" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-218.310" rotx="2.000" id="Element01" tilt="4.350" stretch="1.000" width="100" handcursor="1" fov="30.000" height="71" clickmode="1" roty="11.000" rotz="0.000">
+        <source url="media/1.jpg"/>
+      </image>
+      <image pan="-147.180" rotx="1.000" id="Element02" tilt="7.020" stretch="1.000" width="100" handcursor="1" fov="30.000" height="71" clickmode="1" roty="-13.000" rotz="1.000">
+        <source url="media/2.jpg"/>
+      </image>
+      <image pan="-318.130" rotx="0.000" id="Element04" tilt="1.270" stretch="1.000" width="1772" handcursor="0" fov="26.261" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2415" levelingpitch="0" height="2415" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2415" preload="0" height="2415" predecode="0"/>
+      <level width="1207" preload="0" height="1207" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:39" info="" tags="Готово" source="" nodeid="node3" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-138.77" id="Point01" tilt="-9.61" target="-131.6/-30.0/77.0" description="" title="" skinid="ht_node" url="{node2}"/>
+      <hotspot pan="-49.91" id="Point02" tilt="-9.99" target="-46.7/-31.2/76.7" description="" title="" skinid="ht_node" url="{node6}"/>
+      <hotspot pan="-118.67" id="Point03" tilt="-45.22" target="" description="Стол «Атриум-Плюс» 2000х900х2400 мм.&#xa;Синхронный механизм раздвижения.&#xa;Материалы: подстолье — массив бука. Столешница — МДФ + закалённое стекло.&#xa;Стул «Прованс-2»&#xa;Материалы: массив бука, ткань велюр." title="01" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-223.800" rotx="0.000" id="Element01" tilt="2.280" stretch="1.000" width="100" handcursor="1" fov="30.000" height="71" clickmode="1" roty="8.000" rotz="0.000">
+        <source url="media/5.jpg"/>
+      </image>
+      <image pan="-301.840" rotx="8.000" id="Element02" tilt="7.970" stretch="1.000" width="100" handcursor="1" fov="38.370" height="71" clickmode="1" roty="17.000" rotz="-4.000">
+        <source url="media/6.jpg"/>
+      </image>
+      <image pan="-127.990" rotx="0.000" id="Element03" tilt="2.310" stretch="1.000" width="1772" handcursor="0" fov="21.988" height="320" clickmode="0" roty="7.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2414" levelingpitch="0" height="2414" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2414" preload="0" height="2414" predecode="0"/>
+      <level width="1207" preload="0" height="1207" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:41" info="" tags="Готово" source="" nodeid="node4" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-239.8" id="Point01" tilt="-15.73" target="133.8/-25.6/83.7" description="" title="01" skinid="ht_node" url="{node1}"/>
+      <hotspot pan="-57.49" id="Point02" tilt="-10.27" target="-58.6/-21.7/85.2" description="" title="07" skinid="ht_node" url="{node7}"/>
+      <hotspot pan="-314.91" id="Point03" tilt="-14.08" target="57.2/-26.0/70.0" description="" title="05" skinid="ht_node" url="{node5}"/>
+      <hotspot pan="-107.55" id="Point04" tilt="-35.26" target="" description="Стол «Аида-1» с декором 2000х1000х2500 мм.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ, патина золото.&#xa;Стул «Каспий-3».&#xa;Материалы: массив бука, патина золото, ткань велюр." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-359.79" id="Point05" tilt="-41.43" target="" description="Стол «Фламинго-2» 1000х100х1400 мм.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ + тиснение, патина золото. &#xa;Стул «Лира» узор.&#xa;Материалы: массив бука, патина золото, ткань велюр." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-286.1" id="Point06" tilt="-35.08" target="" description="Стол «Эльма» 1500х900х2000 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + закалённое стекло.&#xa;Стул «Орфей»&#xa;Материалы: массив бука, ткань велюр." title="03" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-154.570" rotx="12.000" id="Element01" tilt="9.660" stretch="1.000" width="100" handcursor="1" fov="30.000" height="71" clickmode="1" roty="-4.000" rotz="2.000">
+        <source url="media/7.jpg"/>
+      </image>
+      <image pan="-236.550" rotx="0.000" id="Element02" tilt="1.900" stretch="1.000" width="100" handcursor="1" fov="18.780" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/8.jpg"/>
+      </image>
+      <image pan="-49.610" rotx="0.000" id="Element03" tilt="3.390" stretch="1.000" width="1772" handcursor="0" fov="24.837" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-322.330" rotx="0.000" id="Element04" tilt="3.460" stretch="1.000" width="1772" handcursor="0" fov="20.386" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2413" levelingpitch="0" height="2413" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2413" preload="0" height="2413" predecode="0"/>
+      <level width="1206" preload="0" height="1206" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:44" info="" tags="Готово" source="" nodeid="node5" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-223.6" id="Point01" tilt="-14.9" target="125.6/-11.0/70.0" description="" title="" skinid="ht_node" url="{node2}"/>
+      <hotspot pan="-45.75" id="Point02" tilt="-14.57" target="-30.6/-27.7/70.0" description="" title="08" skinid="ht_node" url="{node8}"/>
+      <hotspot pan="-139.11" id="Point03" tilt="-15.22" target="-136.6/-10.4/84.4" description="" title="04" skinid="ht_node" url="{node4}"/>
+      <hotspot pan="-314.58" id="Point04" tilt="-5.81" target="41.3/-16.0/77.0" description="" title="06" skinid="ht_node" url="{node6}"/>
+      <hotspot pan="-117.55" id="Point05" tilt="-32.42" target="" description="Стол «Эльма» 1500х900х2000 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + закалённое стекло.&#xa;Стул «Терри».&#xa;Материалы: массив бука, ткань микро велюр." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-81.27" id="Point06" tilt="-22.03" target="" description="Стол «Фрайм» 1500х900х2000 мм.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ + керамика матовая. &#xa;Стул «Терри».&#xa;Материалы: массив бука, ткань микро велюр." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-295.65" id="Point07" tilt="-31.61" target="" description="Стол «Бостон» 1500х900х2000 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — массив дерева.&#xa;Стул «Санто»&#xa;Материалы: металл, ткань велюр." title="03" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-307.300" rotx="0.000" id="Element01" tilt="4.800" stretch="1.000" width="100" handcursor="1" fov="21.450" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/9.jpg"/>
+      </image>
+      <image pan="-132.630" rotx="0.000" id="Element02" tilt="2.790" stretch="1.000" width="100" handcursor="1" fov="19.670" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/10.jpg"/>
+      </image>
+      <image pan="-43.480" rotx="0.000" id="Element03" tilt="3.580" stretch="1.000" width="1772" handcursor="0" fov="22.878" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-223.290" rotx="0.000" id="Element04" tilt="4.620" stretch="1.000" width="1772" handcursor="0" fov="25.371" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2412" levelingpitch="0" height="2412" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2412" preload="0" height="2412" predecode="0"/>
+      <level width="1206" preload="0" height="1206" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:45" info="" tags="Готово" source="" nodeid="node6" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-217.39" id="Point01" tilt="-14.09" target="132.1/-15.2/70.0" description="" title="" skinid="ht_node" url="{node3}"/>
+      <hotspot pan="-43.61" id="Point02" tilt="-13.69" target="-45.4/-26.8/70.0" description="" title="09" skinid="ht_node" url="{node9}"/>
+      <hotspot pan="-143.54" id="Point03" tilt="-10.39" target="-152.1/-9.7/70.0" description="" title="05" skinid="ht_node" url="{node5}"/>
+      <hotspot pan="-118.04" id="Point04" tilt="-39.32" target="" description="Стол «Эльма» 1500х900х2000 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + закалённое стекло.&#xa;Стул «Терри».&#xa;Материалы: массив бука, ткань велюр." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-87.8" id="Point05" tilt="-31.94" target="" description="Стол «Классика» 1200х700 мм.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ. &#xa;Табурет «Классика».&#xa;Материалы: массив бука, ткань рогожка." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-29.69" id="Point06" tilt="-15.89" target="" description="Стол «Бостон» 1500х900х2000 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ.&#xa;Стул «Лоран»&#xa;Материалы: массив бука, ткань велюр.&#xa;Комплект в окрасе RAL 7010." title="03" skinid="ht_info" url=""/>
+      <hotspot pan="-345.51" id="Point07" tilt="-46.48" target="" description="Стол «Бостон» 1000х1000х1350 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ.&#xa;Стул «Белис»&#xa;Материалы: массив бука, ткань велюр." title="04" skinid="ht_info" url=""/>
+      <hotspot pan="-245.21" id="Point08" tilt="-40.4" target="" description="Стол «Бостон» 1500х900х2000 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ.&#xa;Стул «Весна»&#xa;Материалы: массив бука, ткань велюр." title="05" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-216.360" rotx="0.000" id="Element01" tilt="0.360" stretch="1.000" width="100" handcursor="1" fov="17.540" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/11.jpg"/>
+      </image>
+      <image pan="-45.710" rotx="0.000" id="Element02" tilt="3.700" stretch="1.000" width="100" handcursor="1" fov="16.470" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/12.jpg"/>
+      </image>
+      <image pan="-134.110" rotx="1.000" id="Element03" tilt="2.320" stretch="1.000" width="1772" handcursor="0" fov="24.303" height="320" clickmode="0" roty="-2.000" rotz="1.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-309.930" rotx="0.000" id="Element04" tilt="1.230" stretch="1.000" width="1772" handcursor="0" fov="30.000" height="320" clickmode="0" roty="3.000" rotz="-2.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2413" levelingpitch="0" height="2413" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2413" preload="0" height="2413" predecode="0"/>
+      <level width="1206" preload="0" height="1206" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:48" info="" tags="Готово" source="" nodeid="node7" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-238.39" id="Point01" tilt="-15" target="119.7/-16.2/76.7" description="" title="04" skinid="ht_node" url="{node4}"/>
+      <hotspot pan="-58.83" id="Point02" tilt="-13.76" target="-51.1/-15.3/70.0" description="" title="10" skinid="ht_node" url="{node10}"/>
+      <hotspot pan="-332.73" id="Point03" tilt="-14.85" target="52.6/-21.7/70.0" description="" title="08" skinid="ht_node" url="{node8}"/>
+      <hotspot pan="-117.65" id="Point04" tilt="-38.06" target="" description="Стол «Милтон» 1000х1000х1400 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ, патина серебро.&#xa;Стул «Орфей-2» узор.&#xa;Материалы: массив бука, патина серебро, ткань велюр." title="01" skinid="ht_node" url="{node11}"/>
+      <hotspot pan="-357.63" id="Point05" tilt="-38.57" target="" description="Стол «Хайтек» 1500х900х2000 мм.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ. &#xa;Стул «Кардинал».&#xa;Материалы: массив бука, ткань велюр." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-268.96" id="Point06" tilt="-31.07" target="" description="Стол «Аида-2» пулька 1500х900х2000 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ, патина золото.&#xa;Стул «Кардинал-2»&#xa;Материалы: массив бука, патина золото, ткань велюр." title="03" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-63.750" rotx="8.000" id="Element01" tilt="6.650" stretch="1.000" width="100" handcursor="1" fov="21.100" height="71" clickmode="1" roty="-4.000" rotz="0.000">
+        <source url="media/13.jpg"/>
+      </image>
+      <image pan="-142.670" rotx="9.000" id="Element02" tilt="8.220" stretch="1.000" width="100" handcursor="1" fov="27.151" height="71" clickmode="1" roty="4.000" rotz="0.000">
+        <source url="media/14.jpg"/>
+      </image>
+      <image pan="-238.450" rotx="0.000" id="Element03" tilt="0.710" stretch="1.000" width="1772" handcursor="0" fov="22.166" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-324.160" rotx="0.000" id="Element04" tilt="2.580" stretch="1.000" width="1772" handcursor="0" fov="20.386" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2414" levelingpitch="0" height="2414" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2414" preload="0" height="2414" predecode="0"/>
+      <level width="1207" preload="0" height="1207" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:50" info="" tags="Готово" source="" nodeid="node8" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-222.23" id="Point01" tilt="-16.24" target="136.1/-12.2/70.0" description="" title="05" skinid="ht_node" url="{node5}"/>
+      <hotspot pan="-37.31" id="Point02" tilt="-17.09" target="-42.5/-19.4/70.0" description="" title="11" skinid="ht_node" url="{node11}"/>
+      <hotspot pan="-131.75" id="Point03" tilt="-10.07" target="-151.4/-16.9/70.0" description="" title="07" skinid="ht_node" url="{node7}"/>
+      <hotspot pan="-295.02" id="Point04" tilt="-10.07" target="46.2/-13.2/70.0" description="" title="09" skinid="ht_node" url="{node9}"/>
+      <hotspot pan="-115.49" id="Point05" tilt="-31.2" target="" description="Стол «Квадро Плюс» 1200х800х1500 мм.&#xa;Синхронный механизм раздвижения.&#xa;Материалы: Подстолье — массив бука. Столешница — закалённое стекло.&#xa;Стул «Лайт».&#xa;Материалы: массив бука, ткань рогожка.&#xa;Комплект в окрасе RAL 6013." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-70.49" id="Point06" tilt="-21.29" target="" description="Стол «Бостон Плюс» 1200х800х1500 мм.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ + керамика. &#xa;Стул «Лайт».&#xa;Материалы: массив бука, ткань рогожка.&#xa;Комплект в окрасе RAL 6011." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-291.34" id="Point07" tilt="-30.01" target="" description="Стол «Эльма» 1200х800х1700 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + шпон.&#xa;Стул «Терри» с жёстким сиденьем и спинкой.&#xa;Материалы: массив бука, МДФ.&#xa;Комплект в окрасе RAL 1019." title="03" skinid="ht_info" url=""/>
+      <hotspot pan="-254.42" id="Point08" tilt="-21.32" target="" description="Стол «Софт» не раздвижной диаметр 1000 мм.&#xa;Материалы: Массив бука, МДФ.&#xa;Стул «Виктория».&#xa;Материалы: массив бука, ткань экомех." title="04" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-133.930" rotx="-2.000" id="Element01" tilt="5.100" stretch="1.000" width="100" handcursor="1" fov="19.670" height="71" clickmode="1" roty="-6.000" rotz="0.000">
+        <source url="media/15.jpg"/>
+      </image>
+      <image pan="-297.500" rotx="1.000" id="Element02" tilt="1.330" stretch="1.000" width="100" handcursor="1" fov="20.030" height="71" clickmode="1" roty="15.000" rotz="0.000">
+        <source url="media/16.jpg"/>
+      </image>
+      <image pan="-40.610" rotx="4.000" id="Element03" tilt="3.250" stretch="1.000" width="1772" handcursor="0" fov="27.329" height="320" clickmode="0" roty="-10.000" rotz="-2.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-220.510" rotx="0.000" id="Element04" tilt="1.840" stretch="1.000" width="1772" handcursor="0" fov="23.681" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2413" levelingpitch="0" height="2413" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2413" preload="0" height="2413" predecode="0"/>
+      <level width="1206" preload="0" height="1206" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:52" info="" tags="Готово" source="" nodeid="node9" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-228.76" id="Point01" tilt="-15.71" target="145.6/-23.3/70.0" description="" title="06" skinid="ht_node" url="{node6}"/>
+      <hotspot pan="-25.17" id="Point02" tilt="-10.4" target="-27.0/-17.4/70.0" description="" title="12" skinid="ht_node" url="{node12}"/>
+      <hotspot pan="-127.31" id="Point03" tilt="-11.15" target="-142.4/-17.4/70.0" description="" title="08" skinid="ht_node" url="{node8}"/>
+      <hotspot pan="-96.41" id="Point04" tilt="-37.53" target="" description="Стол «Квадро Плюс» 1500х900х1900 мм.&#xa;Синхронный механизм раздвижения.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + керамика матовая.&#xa;Стул «Эльзас» с поворотным механизмом.&#xa;Материалы: металл, ткань велюр." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-0.9" id="Point05" tilt="-30.22" target="" description="Стол «Бостон Плюс» 1200х800х1500 мм.&#xa;Синхронный механизм раздвижения.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ + керамика матовая. &#xa;Стул «Чинзано».&#xa;Материалы: металл, ткань велюр." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-286.86" id="Point06" tilt="-39.8" target="" description="Стол «Милан Плюс» 1200х800х1500 мм.&#xa;Синхронный механизм раздвижения.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + керамика матовая.&#xa;Стул «Марсала» с жёстким сиденьем и спинкой.&#xa;Материалы: массив бука, ткань велюр. " title="03" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-315.260" rotx="0.000" id="Element01" tilt="5.360" stretch="1.000" width="100" handcursor="1" fov="30.000" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/17.jpg"/>
+      </image>
+      <image pan="-36.480" rotx="0.000" id="Element02" tilt="4.150" stretch="1.000" width="100" handcursor="1" fov="18.610" height="71" clickmode="1" roty="6.000" rotz="0.000">
+        <source url="media/18.jpg"/>
+      </image>
+      <image pan="-135.650" rotx="0.000" id="Element03" tilt="2.660" stretch="1.000" width="1772" handcursor="0" fov="25.193" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-227.650" rotx="0.000" id="Element04" tilt="2.400" stretch="1.000" width="1772" handcursor="0" fov="21.632" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2413" levelingpitch="0" height="2413" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2413" preload="0" height="2413" predecode="0"/>
+      <level width="1206" preload="0" height="1206" predecode="0"/>
+      <level width="603" preload="0" height="603" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:53" info="" tags="Готово" source="" nodeid="node10" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-227.99" id="Point01" tilt="-16.46" target="121.9/-11.5/70.0" description="" title="07" skinid="ht_node" url="{node7}"/>
+      <hotspot pan="-307.57" id="Point02" tilt="-13.28" target="36.1/-17.7/70.0" description="" title="11" skinid="ht_node" url="{node11}"/>
+      <hotspot pan="-8.73" id="Point03" tilt="-31.18" target="" description="Стол «Атриум Плюс» 2000х900х2400 мм.&#xa;Синхронный механизм раздвижения.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + керамика глянцевая.&#xa;Стул «Вермут» с поворотным механизмом.&#xa;Материалы: металл, ткань велюр." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-280.47" id="Point04" tilt="-35.96" target="" description="Стол «Венеция-1» с декором 1300х800х1700 мм.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ патина серебро. &#xa;Стул «Каспий-3».&#xa;Материалы: массив бука, патина серебро, ткань велюр." title="02" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-44.710" rotx="5.000" id="Element01" tilt="7.840" stretch="1.000" width="100" handcursor="1" fov="30.000" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/19.jpg"/>
+      </image>
+      <image pan="-135.250" rotx="11.000" id="Element02" tilt="9.510" stretch="1.000" width="100" handcursor="1" fov="30.000" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/20.jpg"/>
+      </image>
+      <image pan="-226.520" rotx="0.000" id="Element03" tilt="1.490" stretch="1.000" width="1772" handcursor="0" fov="20.920" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-317.210" rotx="0.000" id="Element04" tilt="3.530" stretch="1.000" width="1772" handcursor="0" fov="23.234" height="320" clickmode="0" roty="0.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2411" levelingpitch="0" height="2411" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2411" preload="0" height="2411" predecode="0"/>
+      <level width="1205" preload="0" height="1205" predecode="0"/>
+      <level width="602" preload="0" height="602" predecode="0"/>
+      <level width="301" preload="1" height="301" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:54" info="" tags="Готово" source="" nodeid="node11" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-233.54" id="Point01" tilt="-17.59" target="141.6/-9.7/70.0" description="" title="08" skinid="ht_node" url="{node8}"/>
+      <hotspot pan="-143.4" id="Point02" tilt="-9.99" target="-142.3/-11.6/70.0" description="" title="10" skinid="ht_node" url="{node10}"/>
+      <hotspot pan="-330.48" id="Point03" tilt="-7.66" target="28.5/-11.3/70.0" description="" title="12" skinid="ht_node" url="{node12}"/>
+      <hotspot pan="-318.54" id="Point04" tilt="-30.66" target="" description="Стол «Бруно» диаметр 1200 мм. Две дополнительные вставки по 400 мм., увеличивающие размер стола до 1600 или 2000 мм.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ.&#xa;Стул «Капри».&#xa;Материалы: массив бука, ткань премиальный экомех («барашек»)." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-123.17" id="Point05" tilt="-29.38" target="" description="Стол «Бруно» диаметр 1200 мм. Две дополнительные вставки по 400 мм., увеличивающие размер стола до 1600 или 2000 мм.&#xa;Материалы: Подстолье - массив бука. Столешница — МДФ + керамика глянец. &#xa;Стул «Капри».&#xa;Материалы: массив бука, ткань шенилл." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-46.92" id="Point06" tilt="-16.58" target="" description="Комплект «Пекин-1» диаметр 1000 мм. Не раздвижной. Комплект состоит из стола и стульев.&#xa;Материалы: Массив бука, МДФ, ткань велюр." title="03" skinid="ht_info" url=""/>
+      <hotspot pan="-16.01" id="Point07" tilt="-13.74" target="" description="Комплект «Пекин-1» 1500х900 мм. Не раздвижной. Комплект состоит из стола и стульев.&#xa;Материалы: Массив бука, МДФ, ткань жаккард. " title="04" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-12.460" rotx="10.000" id="Element01" tilt="7.570" stretch="1.000" width="100" handcursor="1" fov="30.000" height="71" clickmode="1" roty="42.000" rotz="-9.000">
+        <source url="media/21.jpg"/>
+      </image>
+      <image pan="-70.930" rotx="4.000" id="Element02" tilt="10.390" stretch="1.000" width="100" handcursor="1" fov="33.200" height="71" clickmode="1" roty="-22.000" rotz="2.000">
+        <source url="media/22.jpg"/>
+      </image>
+      <image pan="-140.670" rotx="0.000" id="Element03" tilt="3.600" stretch="1.000" width="100" handcursor="1" fov="22.170" height="71" clickmode="1" roty="2.000" rotz="0.000">
+        <source url="media/23.jpg"/>
+      </image>
+      <image pan="-321.290" rotx="0.000" id="Element04" tilt="2.190" stretch="1.000" width="100" handcursor="1" fov="19.140" height="71" clickmode="1" roty="0.000" rotz="0.000">
+        <source url="media/24.jpg"/>
+      </image>
+      <image pan="-231.650" rotx="0.000" id="Element05" tilt="2.050" stretch="1.000" width="1772" handcursor="0" fov="23.590" height="320" clickmode="0" roty="-5.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" width="2417" levelingpitch="0" height="2417" levelingroll="0" levelbias="0.400" overlap="1">
+      <level width="2417" preload="0" height="2417" predecode="0"/>
+      <level width="1208" preload="0" height="1208" predecode="0"/>
+      <level width="604" preload="0" height="604" predecode="0"/>
+      <level width="302" preload="1" height="302" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" tilt="90" fovstereographic="270" fov="120" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="11.08.2026 10:56" info="" tags="Готово" source="" nodeid="node12" comment="" description="" copyright="" title=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" width="180" textcolor="0x000000" enabled="1" backgroundalpha="1" height="20" wordwrap="1" textalpha="1" border="1" background="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-230.02" id="Point01" tilt="-12.1" target="135.4/-15.0/70.0" description="" title="09" skinid="ht_node" url="{node9}"/>
+      <hotspot pan="-149.01" id="Point02" tilt="-9.37" target="-156.4/-23.2/70.0" description="" title="11" skinid="ht_node" url="{node11}"/>
+      <hotspot pan="-323.78" id="Point03" tilt="-28.13" target="" description="Кровать «Ромб» 1600х2000 мм. Подъёмный механизм + бельевой ящик.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ.&#xa;Стул «Капри».&#xa;Материалы: ДСП, МДФ, поролон, ткань велюр." title="01" skinid="ht_info" url=""/>
+      <hotspot pan="-26.38" id="Point04" tilt="-30.44" target="" description="Комплект журнальных столов «Трио». Состоит из трёх едениц.&#xa;Материалы: Массив дерева." title="02" skinid="ht_info" url=""/>
+      <hotspot pan="-51.46" id="Point05" tilt="-28.65" target="" description="Стол журнальный не раздвижной «Оскар» 1200х600 мм.&#xa;Материалы: Массив дерева." title="03" skinid="ht_info" url=""/>
+      <hotspot pan="-78.82" id="Point06" tilt="-21.81" target="" description="Стул «Капри»&#xa;Материалы: Массив бука, ткань велюр." title="04" skinid="ht_info" url=""/>
+      <hotspot pan="-119.94" id="Point07" tilt="-23.63" target="" description="Стол «Скай» диаметр 1800 мм. Не раздвижной. Имеет дополнительную функцию: поворотный подиум для сервировки.&#xa;Материалы: Подстолье — МДФ. Столешница — МДФ.&#xa;Стул «Кардинал»&#xa;Материалы: Массив бука, ткань шенилл." title="05" skinid="ht_info" url=""/>
+      <hotspot pan="-195.62" id="Point08" tilt="-33.8" target="" description="Стол «Атриум Плюс» 1600х900х2000 мм.&#xa;Синхронный механизм раздвижения.&#xa;Материалы: Подстолье — массив бука. Столешница — МДФ + керамика глянец.&#xa;Стул «Шато»&#xa;Материалы: Металл, ткань шенилл. " title="06" skinid="ht_info" url=""/>
+    </hotspots>
+    <media>
+      <image pan="-318.590" rotx="4.000" id="Element01" tilt="8.730" stretch="1.000" width="100" handcursor="1" fov="33.200" height="71" clickmode="1" roty="-1.000" rotz="0.000">
+        <source url="media/25.jpg"/>
+      </image>
+      <image pan="-45.950" rotx="1.000" id="Element02" tilt="3.090" stretch="1.000" width="100" handcursor="1" fov="32.490" height="71" clickmode="1" roty="-2.000" rotz="1.000">
+        <source url="media/26.jpg"/>
+      </image>
+      <image pan="-150.650" rotx="0.000" id="Element03" tilt="0.830" stretch="1.000" width="1772" handcursor="0" fov="27.329" height="320" clickmode="0" roty="-17.000" rotz="0.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+      <image pan="-220.510" rotx="0.000" id="Element04" tilt="1.720" stretch="1.000" width="1772" handcursor="0" fov="21.810" height="320" clickmode="0" roty="8.000" rotz="-1.000">
+        <source url="media/Тел.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="20" enabled="1" zoomout="0" blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" type="crossdissolve" softedge="0" zoomoutpause="1"/>
+    <autorotate nodedelay="0.00" returntohorizon="0.000" useanimation="0" startloaded="0" enabled="1" delay="10.00" noderandom="1" speed="0.010" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" lockedwheel="0" hideabout="0" lockedkeyboard="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" author="" longitude="" customnodeid="" datetime="" info="" tags="" source="" nodeid="master" comment="" description="" copyright="" title=""/>
+  </masternode>
+</tour>
